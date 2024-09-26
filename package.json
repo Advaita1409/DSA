@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pondjs": "^0.8.10",
+    "react-timeseries-charts": "^0.16.1"
+  }
+}
